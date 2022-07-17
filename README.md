@@ -7,7 +7,7 @@ I specialize in web and software development, and I am currently learning AI dev
 I also have a background in robotics and maker culture, both of which I still do as a hobby.
 
 ##### 📫 Contact me at zlopez@princeton.edu
-##### 📝 View my resume [here](https://drive.google.com/file/d/1DbAD8xqhhWIa-AILp99zeYSjVQ4tROUB/view?usp=sharing)
+##### 📝 View my resume [here](https://drive.google.com/file/d/1h9KWhLHc4WBZ-YRuPkFoEYPOgfrED9xW/view?usp=sharing)
 
 ##### 🏗️ Active Projects
 
